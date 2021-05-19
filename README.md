@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Srivastava</h1>
 <h3 align="center">A passionate developer and coder from India.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nocturnal-coderr&label=Profile%20views&color=0e75b6&style=flat" alt="nocturnal-coderr" /> </p>
+
+
  <img align="right" width="350px" margin-top="50px" border-radius="15"  src="https://github.com/Nocturnal-Coderr/Nocturnal-Coderr/blob/main/da404bf7bd4398c9f256c65507d3c860.jpg" alt="nocturnal-coderr" />
 
 - 🌱 I’m currently learning **Angular.js**
 
 - 📫 How to reach me ** : ashutoshac.05@gmailcom**
 
-- ⚡ Fun fact **if(output === 'error'){goto stackoverflow;};}**
+- ⚡ Fun fact **
+-               if(output === 'error'){
+-                  goto stackoverflow;
+-               }**
 
 <h3 align="left">Connect with me:</h3>
 
