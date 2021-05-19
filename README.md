@@ -27,5 +27,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nocturnal-coderr&show_icons=true&locale=en&layout=compact" alt="nocturnal-coderr" /></p>
 
 <br/>
-
-<img align="left" width="150px" margintop="50px" borderRadius="15px"  src="https://github.com/Nocturnal-Coderr/Nocturnal-Coderr/blob/main/da404bf7bd4398c9f256c65507d3c860.jpg" alt="nocturnal-coderr" />
