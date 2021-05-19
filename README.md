@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular.js**
 
-- 📫 How to reach me **ashutoshac.05@gmailcom**
+- 📫 How to reach me ** : ashutoshac.05@gmailcom**
 
 - ⚡ Fun fact **if(output === 'error'){goto stackoverflow;};}**
 
