@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/ashutosh srivastava" target="blank"><img align="center" height="60" width="70" src="https://github.com/Nocturnal-Coderr/Nocturnal-Coderr/blob/main/e06006fbb450576fadd1ba0fc39ab9d4.jpg" alt="ashutosh srivastava" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashutosh-42a782211/" target="blank"><img align="center" height="60" width="70" src="https://github.com/Nocturnal-Coderr/Nocturnal-Coderr/blob/main/e06006fbb450576fadd1ba0fc39ab9d4.jpg" alt="ashutosh srivastava" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
